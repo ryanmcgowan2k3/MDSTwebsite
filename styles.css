@@ -2,17 +2,17 @@ header {
 
 } 
 body { 
-        background-color: #808080;
-        text-align: left;
-      }
-      
-      .billsRed {
-        color: #ff0000;
-      }
-      
-      .billsBlue {
-        color: #3333ff;
-      }
+    background-color: #808080;
+    text-align: left;
+  }
+  
+  .billsRed {
+    color: #ff0000;
+  }
+  
+  .billsBlue {
+    color: #3333ff;
+  }  
     
 nav { 
 
