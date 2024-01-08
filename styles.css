@@ -14,9 +14,17 @@ body {
     color: #3333ff;
   }  
     
-nav { 
-
-} 
+  nav a {
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  
 h1 { 
 
 } 
