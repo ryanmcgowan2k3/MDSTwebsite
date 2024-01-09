@@ -94,6 +94,9 @@ input[type="submit"]:hover, input[type="reset"]:hover {
 .audio-container {
   margin-top: -20px;
 }
+.shout-song-header{
+  margin-top: -20px;
+}
 
 .transcript {
   font-family: Arial, sans-serif;
