@@ -92,7 +92,7 @@ input[type="submit"]:hover, input[type="reset"]:hover {
   color: black; 
 }
 .audio-container {
-  margin-bottom: 20px;
+  margin-top: -20px;
 }
 
 .transcript {
@@ -112,7 +112,7 @@ input[type="submit"]:hover, input[type="reset"]:hover {
 
 .video-container {
   flex: 1; 
-  padding-right: 20px; 
+  padding-right: 10px; 
 }
 
 .transcript-container {
