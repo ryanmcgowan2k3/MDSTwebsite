@@ -91,6 +91,19 @@ input[type="submit"]:hover, input[type="reset"]:hover {
 .instagram-link {
   color: black; 
 }
+.audio-container {
+  margin-bottom: 20px;
+}
+
+.transcript {
+  font-family: Arial, sans-serif;
+  font-size: 1em;
+  line-height: 1.4;
+  margin: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  background-color: #f9f9f9;
+}
 
 
   
