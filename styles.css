@@ -94,11 +94,21 @@ input[type="submit"]:hover, input[type="reset"]:hover {
 .audio-container {
   margin-bottom: 10px;
 }
-.centered-chart {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+.chart-container {
+  text-align: center; 
 }
+
+.chart-container img {
+  display: block; 
+  margin: 0 auto; 
+}
+
+.footnote {
+  font-size: 0.8em;
+  font-style: italic;
+  margin-top: 5px; 
+}
+
 .footnote {
   font-size: 0.8em; 
   font-style: italic; 
