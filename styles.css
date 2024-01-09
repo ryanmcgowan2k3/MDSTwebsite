@@ -94,6 +94,12 @@ input[type="submit"]:hover, input[type="reset"]:hover {
 .audio-container {
   margin-bottom: 10px;
 }
+.centered-chart {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 
 
 .transcript {
