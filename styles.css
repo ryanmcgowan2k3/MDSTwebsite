@@ -104,6 +104,23 @@ input[type="submit"]:hover, input[type="reset"]:hover {
   border: 1px solid #ccc;
   background-color: #f9f9f9;
 }
+.video-with-transcript {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.video-container {
+  flex: 1; 
+  padding-right: 20px; 
+}
+
+.transcript-container {
+  flex: 1; 
+  border: 1px solid #ddd;
+  padding: 10px;
+  background-color: #f8f8f8;
+}
 
 
   
